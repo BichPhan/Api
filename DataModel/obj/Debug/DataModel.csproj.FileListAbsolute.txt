@@ -1,0 +1,9 @@
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\DataModel.dll.config
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\DataModel.dll
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\DataModel.pdb
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\EntityFramework.dll
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\EntityFramework.xml
+E:\WebApi\Source2\Api2\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+E:\WebApi\Source2\Api2\DataModel\obj\Debug\DataModel.dll
+E:\WebApi\Source2\Api2\DataModel\obj\Debug\DataModel.pdb
